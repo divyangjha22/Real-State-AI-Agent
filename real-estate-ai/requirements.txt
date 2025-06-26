@@ -1,0 +1,5 @@
+requests 
+bs4 
+newspaper3k 
+pdf2image
+pytesseract
